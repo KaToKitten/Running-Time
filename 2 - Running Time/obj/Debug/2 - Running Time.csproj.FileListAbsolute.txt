@@ -1,0 +1,6 @@
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\2 - Running Time\2 - Running Time\bin\Debug\2 - Running Time.exe.config
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\2 - Running Time\2 - Running Time\bin\Debug\2 - Running Time.exe
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\2 - Running Time\2 - Running Time\bin\Debug\2 - Running Time.pdb
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\2 - Running Time\2 - Running Time\obj\Debug\2 - Running Time.csprojResolveAssemblyReference.cache
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\2 - Running Time\2 - Running Time\obj\Debug\2 - Running Time.exe
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\2 - Running Time\2 - Running Time\obj\Debug\2 - Running Time.pdb
